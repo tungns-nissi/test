@@ -1,4 +1,4 @@
 #!/bin/bash
 
 date
-echo "Release chuc nang A"
+echo "Đập đi xây lại"
