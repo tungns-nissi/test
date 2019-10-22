@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "release chuc nang 1"
+echo " Test di test lai"
